@@ -125,6 +125,7 @@
                   <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore quo officia delectus corrupti voluptatum quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias quos voluptatem ullam quo quia sed? Id molestiae enim aliquam harum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, necessitatibus mollitia. Expedita sunt impedit ratione!</p>
                 </div>
                 <div class="modal-footer">
+                  <a href="#" class="wiki-link">Link to Wiki</a>
                   <button type="button" class="btn modal-close" data-dismiss="modal">Close</button>
                 </div>
               </div>
@@ -151,6 +152,7 @@
                   <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore quo officia delectus corrupti voluptatum quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus error incidunt sunt ipsam porro, itaque necessitatibus repellat eum quis beatae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore nobis dolore officia repellat minus quam reiciendis blanditiis, vero beatae architecto?</p>
                 </div>
                 <div class="modal-footer">
+                  <a href="#" class="wiki-link">Link to Wiki</a>
                   <button type="button" class="btn modal-close" data-dismiss="modal">Close</button>
                 </div>
               </div>
@@ -177,6 +179,7 @@
                   <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore quo officia delectus corrupti voluptatum quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium consequuntur assumenda doloremque, at quas doloribus aut veritatis nulla ut illo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, quibusdam.</p>
                 </div>
                 <div class="modal-footer">
+                  <a href="#" class="wiki-link">Link to Wiki</a>
                   <button type="button" class="btn modal-close" data-dismiss="modal">Close</button>
                 </div>
               </div>
@@ -372,7 +375,10 @@ export default {
 
   .modal-footer {
     background: $secondary;
+  }
 
+  .wiki-link {
+    color: $black;
   }
 
   .modal-close {
