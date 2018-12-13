@@ -55,7 +55,7 @@
 
           <div class="masters">
             <div class="row">
-              <div class="card col-lg">
+              <div class="shadow card col-lg">
                 <div class="card-body">
                   <div class="master">
                     <img src="../assets/profile-1.jpg" alt="Profile Pic" class="master-img">
@@ -71,7 +71,7 @@
                 </div>
               </div>
 
-              <div class="card col-lg">
+              <div class="shadow card col-lg">
                 <div class="card-body">
                   <div class="master">
                     <img src="../assets/profile-2.png" alt="" class="master-img">
@@ -87,7 +87,7 @@
                 </div>
               </div>
 
-              <div class="card col-lg">
+              <div class="shadow card col-lg">
                 <div class="card-body">
                   <div class="master">
                     <img src="../assets/profile-3.jpg" alt="" class="master-img">
@@ -187,6 +187,43 @@
           </div>
         </div>
       </section>
+
+      <section class="gallery container">
+        <div class="row mb-4">
+          <div class="photo col-lg mb-4">
+            <img class="img-fluid gallery-img" src="../assets/gallery-1.jpg" alt="">
+          </div>
+          <div class="photo col-lg mb-4">
+            <img class="img-fluid gallery-img" src="../assets/gallery-2.jpg" alt="">
+          </div>
+          <div class="photo col-lg">
+            <img class="img-fluid gallery-img" src="../assets/gallery-3.jpg" alt="">
+          </div>
+        </div>
+        <div class="row">
+          <div class="photo col-lg mb-4">
+            <img class="img-fluid gallery-img" src="../assets/gallery-4.jpg" alt="">
+          </div>
+          <div class="photo col-lg mb-4">
+            <img class="img-fluid gallery-img" src="../assets/gallery-5.jpg" alt="">
+          </div>
+          <div class="photo col-lg mb-4">
+            <img class="img-fluid gallery-img" src="../assets/gallery-6.jpg" alt="">
+          </div>
+        </div>
+      </section>
+
+      <section class="join-us">
+        <div class="join-content">
+          <h2 class="join-text">Dont wait untill tomorrow</h2>
+        </div>
+
+      </section>
+      
+      <div class="join-action">
+        <a href="#contact" class="join-btn btn">Join Today</a>
+      </div>
+
 
       <section class="faqs" id="faqs">
         <div class="container">
@@ -347,7 +384,7 @@ export default {
     align-items: center;
   }
 
-  img {
+  img.master-img {
     height: 70px;
     width: 70px;
     border-radius: 50%;
@@ -362,10 +399,17 @@ export default {
   }
 
   .more-btn {
-    background: #9D0A0E;
-    color: $white;
+    background: transparent;
+    color: $primary;
     border-radius: 50px;
     padding: 10px 25px;
+    border: 1px solid $primary;
+    
+    &:hover {
+      color: $white;
+      background: $primary;
+      border: 1px solid $primary;
+    }
   }
 
   .modal-header {
@@ -395,8 +439,62 @@ export default {
     }
   }
 
+  .gallery {
+    margin-top: 120px; 
+    z-index: 1px;
+  }
+
+  .photo {
+    width: 400px;
+    height: 300px;
+  }
+
+  .gallery-img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .join-us {
+    height: 350px;
+    background: $primary;
+    position: relative;
+    bottom: 170px;
+    z-index: -1;
+  }
+
+  .join-content {
+    padding-top: 200px;
+    padding-bottom: -200px;
+    text-align: center;
+  }
+
+  .join-text {
+    color: $white;
+  }
+
+  .join-action {
+    position: relative;
+    bottom: 270px;
+    text-align: center;
+  }
+
+  .join-btn {
+    margin: 10px 0;
+    border: 1px solid $white;
+    color: $white;
+    text-decoration: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+
+    &:hover {
+      background: $black;
+      border: 1px solid $black;
+    }
+  }
+
   .faqs {
-    padding-top: 100px;
+    margin-top: -120px;
     padding-bottom: 30px;
   }
 
@@ -450,6 +548,7 @@ export default {
     outline: none;
     width: 50%;
     margin: 0 auto;
+    font-size: 1.2rem;
 
     &:hover {
       background: $black;
@@ -487,6 +586,14 @@ export default {
 
     & p {
       color: $grey;
+    }
+  }
+
+  @media screen and (max-width: 1000px) {
+    .photo {
+      width: 100%;
+      height: 400px;
+      margin: 0 auto;
     }
   }
 </style>
