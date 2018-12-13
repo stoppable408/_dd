@@ -16,6 +16,9 @@
                 <a class="nav-link left-nav-item" href="#dungeon-masters">Dungeon Masters</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link left-nav-item" href="#gallery">Gallery</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link left-nav-item" href="#faqs">FAQs</a>
               </li>
               <li class="nav-item">
@@ -188,27 +191,28 @@
         </div>
       </section>
 
-      <section class="gallery container">
-        <div class="row mb-4">
-          <div class="photo col-lg mb-4">
-            <img class="img-fluid gallery-img" src="../assets/gallery-1.jpg" alt="">
-          </div>
-          <div class="photo col-lg mb-4">
-            <img class="img-fluid gallery-img" src="../assets/gallery-2.jpg" alt="">
-          </div>
-          <div class="photo col-lg">
-            <img class="img-fluid gallery-img" src="../assets/gallery-3.jpg" alt="">
-          </div>
-        </div>
-        <div class="row">
-          <div class="photo col-lg mb-4">
-            <img class="img-fluid gallery-img" src="../assets/gallery-4.jpg" alt="">
-          </div>
-          <div class="photo col-lg mb-4">
-            <img class="img-fluid gallery-img" src="../assets/gallery-5.jpg" alt="">
-          </div>
-          <div class="photo col-lg mb-4">
-            <img class="img-fluid gallery-img" src="../assets/gallery-6.jpg" alt="">
+      <section class="gallery" id="gallery">
+        <div class="container">
+          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img class="d-block w-100 gallery-img" src="../assets/gallery-1.jpg" alt="First slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100 gallery-img" src="../assets/gallery-2.jpg" alt="Second slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100 gallery-img" src="../assets/gallery-5.jpg" alt="Third slide">
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
           </div>
         </div>
       </section>
@@ -376,6 +380,7 @@ export default {
 
   .dd-masters {
     padding-top: 100px;
+    margin-bottom: 120px;
   }
 
   .master {
@@ -442,6 +447,9 @@ export default {
   .gallery {
     margin-top: 120px; 
     z-index: 1px;
+    max-width: 700px;
+    max-height: 500px;
+    margin: 0 auto;
   }
 
   .photo {
@@ -450,8 +458,8 @@ export default {
   }
 
   .gallery-img {
-    width: 100%;
-    height: 100%;
+    max-width: 700px;
+    max-height: 500px;
   }
 
   .join-us {
@@ -589,11 +597,27 @@ export default {
     }
   }
 
-  @media screen and (max-width: 1000px) {
+  @media only screen and (max-width: 1000px) {
     .photo {
       width: 100%;
       height: 400px;
       margin: 0 auto;
     }
+
+    .carousel {
+      
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    
+  } 
+
+  /* Large devices (laptops/desktops, 992px and up) */
+  // @media only screen and (min-width: 992px) {...} 
+
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (max-width: 1200px) {
+
   }
 </style>
