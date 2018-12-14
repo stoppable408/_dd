@@ -527,6 +527,7 @@ export default {
     padding-top: 200px;
     padding-bottom: -200px;
     text-align: center;
+    margin-top: 20px;
   }
 
   .join-text {
