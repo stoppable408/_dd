@@ -192,6 +192,9 @@
       </section>
 
       <section class="gallery" id="gallery">
+        <div class="galler-title">
+          <h2 class="text-center mb-5">Gallery</h2>
+        </div>
         <div class="container">
           <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
@@ -427,8 +430,8 @@ export default {
   }
 
   .dd-masters {
-    padding-top: 100px;
-    margin-bottom: 120px;
+    padding-top: 170px;
+    margin-bottom: 170px;
   }
 
   .master {
@@ -493,7 +496,6 @@ export default {
   }
 
   .gallery {
-    margin-top: 120px; 
     z-index: 1px;
     max-width: 700px;
     max-height: 500px;
@@ -553,7 +555,7 @@ export default {
   }
 
   .faqs {
-    margin-top: -120px;
+    margin-top: -80px;
     padding-bottom: 30px;
   }
 
