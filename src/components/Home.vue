@@ -58,7 +58,7 @@
 
           <div class="masters">
             <div class="row">
-              <div class="shadow card col-lg">
+              <div class="shadow card col-lg master-card">
                 <div class="card-body">
                   <div class="master">
                     <img src="../assets/profile-1.jpg" alt="Profile Pic" class="master-img">
@@ -74,7 +74,7 @@
                 </div>
               </div>
 
-              <div class="shadow card col-lg">
+              <div class="shadow card col-lg master-card">
                 <div class="card-body">
                   <div class="master">
                     <img src="../assets/profile-2.png" alt="" class="master-img">
@@ -90,7 +90,7 @@
                 </div>
               </div>
 
-              <div class="shadow card col-lg">
+              <div class="shadow card col-lg master-card">
                 <div class="card-body">
                   <div class="master">
                     <img src="../assets/profile-3.jpg" alt="" class="master-img">
@@ -217,7 +217,7 @@
         </div>
       </section>
 
-      <section class="join-us">
+      <section class="join-us container">
         <div class="join-content">
           <h2 class="join-text">Dont wait untill tomorrow</h2>
         </div>
@@ -231,7 +231,7 @@
 
       <section class="faqs" id="faqs">
         <div class="container">
-          <ul class="faqs-list accordion" id="accordion">
+          <!-- <ul class="faqs-list accordion" id="accordion">
             <div class="faqs-title">
               <h2>FAQs</h2>
             </div>
@@ -240,7 +240,55 @@
             <li class="faqs-list-item">Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
             <li class="faqs-list-item">Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
             <li class="faqs-list-item">Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-          </ul>
+          </ul> -->
+          <div class="faqs-title text-center mb-5">
+            <h2>FAQs</h2>
+          </div>
+          <div class="accordion" id="accordionExample">
+            <div class="card">
+              <div class="faq-header card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                <h5 class="mb-0">
+                  <p class="question">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, voluptates.
+                  </p>
+                </h5>
+              </div>
+
+              <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div class="card-body answer">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit exercitationem voluptate vitae tenetur voluptas sequi, possimus expedita repellendus cumque officiis!
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="faq-header card-header" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                <h5 class="mb-0">
+                  <p class="question">
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora, eum.
+                  </p>
+                </h5>
+              </div>
+              <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                <div class="card-body answer">
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum, autem. Reiciendis reprehenderit magnam fugiat deleniti rem ipsum architecto veniam minima.
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="faq-header card-header" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                <h5 class="mb-0">
+                  <p class="question">
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia, quae?
+                  </p>
+                </h5>
+              </div>
+              <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                <div class="card-body answer">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptatum molestias minus laboriosam assumenda consequuntur, delectus nihil placeat officiis nemo!
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
     </main>
@@ -396,11 +444,11 @@ export default {
     margin-right: 10px;
   }
 
-  .card {
+  .master-card {
     margin: 10px;
     background: $secondary;
     border: none;
-    border-radius: 0;
+    border-radius: 5px;
   }
 
   .more-btn {
@@ -465,9 +513,12 @@ export default {
   .join-us {
     height: 350px;
     background: $primary;
+    // width: 80%; 
     position: relative;
     bottom: 170px;
     z-index: -1;
+    border-radius: 5px;
+    margin: 0 auto;
   }
 
   .join-content {
@@ -506,19 +557,32 @@ export default {
     padding-bottom: 30px;
   }
 
-  div.faqs-title {
-    border-bottom: .2px solid $grey;
-    padding-bottom: 10px;
+  // div.faqs-title 
+  //   border-bottom: .2px solid $grey;
+  //   padding-bottom: 10px;
+  // 
+
+  // .faqs-list 
+  //   list-style: none;
+  // 
+
+  // .faqs-list-item 
+  //   border-bottom: .2px solid $grey;
+  //   padding: 20px;
+  //   color: $primary;
+  // 
+
+  .faq-header {
+    cursor: pointer;
+    background: $secondary;
   }
 
-  .faqs-list {
-    list-style: none;
-  }
-
-  .faqs-list-item {
-    border-bottom: .2px solid $grey;
-    padding: 20px;
+  .question {
     color: $primary;
+  }
+
+  .answer {
+    font-size: 1.2rem;
   }
 
   .footer {
@@ -603,21 +667,5 @@ export default {
       height: 400px;
       margin: 0 auto;
     }
-
-    .carousel {
-      
-    }
-  }
-
-  @media only screen and (max-width: 768px) {
-    
-  } 
-
-  /* Large devices (laptops/desktops, 992px and up) */
-  // @media only screen and (min-width: 992px) {...} 
-
-  /* Extra large devices (large laptops and desktops, 1200px and up) */
-  @media only screen and (max-width: 1200px) {
-
   }
 </style>
