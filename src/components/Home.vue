@@ -234,16 +234,6 @@
 
       <section class="faqs" id="faqs">
         <div class="container">
-          <!-- <ul class="faqs-list accordion" id="accordion">
-            <div class="faqs-title">
-              <h2>FAQs</h2>
-            </div>
-            <li class="faqs-list-item">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</li>
-            <li class="faqs-list-item">Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-            <li class="faqs-list-item">Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-            <li class="faqs-list-item">Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-            <li class="faqs-list-item">Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-          </ul> -->
           <div class="faqs-title text-center mb-5">
             <h2>FAQs</h2>
           </div>
@@ -310,7 +300,9 @@
             </div>
           </div>
 
-          <form action="" class="footer-form col-md">
+          <form action="https://submit-form.com/" class="footer-form col-md">
+            <input type="hidden" name="_redirect" value="http://localhost:8080/thanks" />
+            <input type="checkbox" name="_honeypot" style="display:none" tabindex="-1" autocomplete="off">
             <div class="form-group">
               <label for="name" class="form-label">Name</label>
               <input type="text" class="form-control form-input" id="name" name="name" placeholder="Enter name" required>
@@ -334,35 +326,6 @@
     </footer>
   </div>
 </template>
-
-<script>
-export default {
-  data() {
-    return {
-      masters: [
-        { 
-          name: 'Jason Tiller', 
-          imageUrl: '../assets/profile-1.jpg', 
-          region: 'Detroit, MI', 
-          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore quo officia delectus corrupti voluptatum quod.' 
-        },
-        { 
-          name: 'Cameron Rivers', 
-          imageUrl: '../assets/profile-2.png', 
-          region: 'Grand Rapids, MI', 
-          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore quo officia delectus corrupti voluptatum quod.' 
-        },
-        { 
-          name: 'Arron Cambridge', 
-          imageUrl: '../assets/profile-3.jpg', 
-          region: 'Ann Arbor, MI', 
-          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore quo officia delectus corrupti voluptatum quod.' 
-        },
-      ]
-    }
-  },
-}
-</script>
 
 <style lang="scss" scoped>
   $primary: #9D0A0E;
@@ -514,8 +477,7 @@ export default {
 
   .join-us {
     height: 350px;
-    background: $primary;
-    // width: 80%; 
+    background: $primary; 
     position: relative;
     bottom: 170px;
     z-index: -1;
@@ -559,21 +521,6 @@ export default {
     margin-top: -80px;
     padding-bottom: 30px;
   }
-
-  // div.faqs-title 
-  //   border-bottom: .2px solid $grey;
-  //   padding-bottom: 10px;
-  // 
-
-  // .faqs-list 
-  //   list-style: none;
-  // 
-
-  // .faqs-list-item 
-  //   border-bottom: .2px solid $grey;
-  //   padding: 20px;
-  //   color: $primary;
-  // 
 
   .faq-header {
     cursor: pointer;
