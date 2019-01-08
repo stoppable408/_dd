@@ -30,7 +30,7 @@
       </nav>
 
       <section class="header container">
-        <h1 class="title">D & D</h1>
+        <h1 class="title">Detroit LFG</h1>
         <h3 class="subtitle mt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta dolorum modi et non tempore distinctio.</h3>
         <a href="#contact" class="btn action-btn mt-5">Get In Touch!</a>
       </section>
