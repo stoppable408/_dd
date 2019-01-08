@@ -67,10 +67,7 @@
                       <h6 class="card-subtitle mb-2 text-muted">Region: Hazel Park, MI</h6>
                     </div>
                   </div>
-                  <p class="card-text">Over a great many years, the people of Sanctus have been safe from the evils of the world, and the ones that knew why died with that knowledge. As time passed, the people lost the art of warfare and only know how to fight as a sport.  With the concerns about sustainability, the Council asked for brave souls to venture out into the world to seek out new places to settle.
-Since these adventurers have been leaving the safety of the island, reports of strange creatures being spotted have increased from various areas. At first, the stories were not believed, but they have grown to warrant investigation.  Thankfully, the city remains safe for now, but political forces have been stirred since the arrival of races, thought lost to the world, have been coming to Sanctus from the lands of Caldera, The Wayward, Black River Island, and Summerport. 
-Would you like to help solve some of these troubling issues or, perhaps, learn the ancient secrets of the island of Sanctus?
-</p>
+                  <p class="card-text">Over a great many years, the people of Sanctus have been safe from the evils of the world, and the ones that knew why died with that knowledge...</p>
                   <div class="more text-center">
                     <button class="btn more-btn" data-toggle="modal" data-target="#modal">More</button>
                   </div>
