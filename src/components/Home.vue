@@ -64,7 +64,7 @@
                     <img src="../assets/Jim Weaver.jpg" alt="Profile Pic" class="master-img">
                     <div class="master-info">
                       <h5 class="card-title">Jim Weaver</h5>
-                      <h6 class="card-subtitle mb-2 text-muted">Region: Hazel Park, MI</h6>
+                      <h6 class="card-subtitle mb-2 text-muted">Region: Sanctus</h6>
                     </div>
                   </div>
                   <p class="card-text">Over a great many years, the people of Sanctus have been safe from the evils of the world, and the ones that knew why died with that knowledge...</p>
