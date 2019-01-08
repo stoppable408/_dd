@@ -61,7 +61,7 @@
               <div class="shadow card col-lg master-card">
                 <div class="card-body">
                   <div class="master">
-                    <img src="../assets/profile-1.jpg" alt="Profile Pic" class="master-img">
+                    <img src="../assets/Jim Weaver.jpg" alt="Profile Pic" class="master-img">
                     <div class="master-info">
                       <h5 class="card-title">Jim Weaver</h5>
                       <h6 class="card-subtitle mb-2 text-muted">Region: Hazel Park, MI</h6>
