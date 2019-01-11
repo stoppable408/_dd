@@ -31,7 +31,7 @@
 
       <section class="header container">
         <h1 class="title">Detroit LFG</h1>
-        <h3 class="subtitle mt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta dolorum modi et non tempore distinctio.</h3>
+        <h3 class="subtitle mt-5">A community dedicated to providing the adventurers of Southwest Michigan with all their Dungeons & Dragons needs!</h3>
         <a href="#contact" class="btn action-btn mt-5">Get In Touch!</a>
       </section>
     </header>
@@ -45,7 +45,7 @@
           </div>
 
           <div class="summary-subtitle">
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque totam neque atque facilis. Et saepe quia maxime fuga quis rerum repudiandae explicabo provident consequatur tenetur! Ut, ratione nam sunt hic a soluta dolores consequuntur iure consequatur molestias praesentium officia alias rem voluptatibus doloribus amet perferendis voluptates, explicabo ipsam omnis non.</p>
+            <p>Our Mission at Detroit LFG is to bring together a community of diverse players who share the love of Dungeons and Dragons through exploration, community involvement, and cooperative gaming play.  It is our mission to bring a large Gaming Community together with multiple Dungeon Masters who bring different styles of play for players to immerse themselves in a communal world.   Furthermore, we want to encourage a cooperative gaming environment where everyone has a voice and is free to play their character however they choose.</p>
           </div>
         </div>
       </section>
@@ -242,14 +242,14 @@
               <div class="faq-header card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                 <h5 class="mb-0">
                   <p class="question">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, voluptates.
+                    I don’t have time to play every week and am worried this will be too much of a commitment.  What’s the time commitment like?
                   </p>
                 </h5>
               </div>
 
               <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                 <div class="card-body answer">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit exercitationem voluptate vitae tenetur voluptas sequi, possimus expedita repellendus cumque officiis!
+                  Here’s the thing - all of us are busy with tons of stuff in life, between jobs, loved ones, school, etc.  That’s why this model of community was created - to work perfectly with busy adults.  The amount of time that you put into DetroitLFG all depends on your schedule.  We have people who will play 2, 3, 4 times a week, and we have people that will get a game in once a month.  We will have open missions for anyone to join, and you decide if you’re free.  No one will judge you if you’re a busy person.  Actually, if we see someone join a game after a month-long break or so, we celebrate!  So, in terms of time commitment, don’t stress.  We understand and have your back.
                 </div>
               </div>
             </div>
@@ -257,13 +257,13 @@
               <div class="faq-header card-header" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                 <h5 class="mb-0">
                   <p class="question">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora, eum.
+                    I have a character from another campaign.  Can I bring them over to this one?
                   </p>
                 </h5>
               </div>
               <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                 <div class="card-body answer">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum, autem. Reiciendis reprehenderit magnam fugiat deleniti rem ipsum architecto veniam minima.
+                  Unfortunately, with our model, bringing characters over from other campaigns isn’t an option unless you have them start at level 1 with all of the basics again.  Our structure creates a fair playing field for everyone, and bringing in a character that you’ve leveled up to level 5 in another campaign and keeping them at level 5 would create too many openings for unfairness.
                 </div>
               </div>
             </div>
@@ -271,13 +271,13 @@
               <div class="faq-header card-header" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                 <h5 class="mb-0">
                   <p class="question">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia, quae?
+                    I’m new to this campaign!  Can I create any type of character I want?
                   </p>
                 </h5>
               </div>
               <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                 <div class="card-body answer">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptatum molestias minus laboriosam assumenda consequuntur, delectus nihil placeat officiis nemo!
+                  Yes and no.  Your character design is all up to you.  You can choose male or female or neither, racial characteristics within the race you choose, any spells that may be relevant, any of the basic starting equipment, etc.  However, we do have some restrictions that are there to ensure our group maintains order, and also gives incentives and goals to keep players hooked.  First of all, we are keeping the options limited to the PHB at the onset of the campaign, and for each new player’s introduction (no matter how long the campaign has been running). Extended character options will be available as ‘unlocks’ through the play of the game. The details below note how you can access non-PHB options through the course of play.  When you join, you’ll be given a handbook-like document that will go further in detail about character creation.  Further, because of the nature of our group, we do not allow characters with Evil or Chaotic Neutral alignments, as these can be disruptive to the campaign.
                 </div>
               </div>
             </div>
