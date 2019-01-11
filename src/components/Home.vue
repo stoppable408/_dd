@@ -321,7 +321,7 @@
               </div>
               <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                 <div class="card-body answer">
-                  There is no maximum number of characters you can create. The only negative to having multiple “alts” is that your split focus may slow down the individual advancement of each character (less play time per character).  Our advice?  If you haven’t ever played this type of way before, start with 1 or 2 and get used to the flow of things before making more.                </div>
+                  There is no maximum number of characters you can create. The only negative to having multiple “alts” is that your split focus may slow down the individual advancement of each character (less play time per character).  Our advice?  If you haven’t ever played this type of way before, start with 1 or 2 and get used to the flow of things before making more.
                 </div>
               </div>
              </div>
