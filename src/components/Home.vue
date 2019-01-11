@@ -293,6 +293,7 @@
                   Yes and yes!  Please!  The way our campaign is structured makes it a good entry for new players.  Anyone who joins will first start off with a Session Zero, where they will learn the ins and outs of our campaign, get introduced to the regions, have our guidelines explained and be given the room to ask any questions and have experienced players and Dungeon Masters give advice and guidance at that session.  Further, our community of players are all willing to help out and answers questions and give guidance.
                 </div>
                 </div>
+                
           </div>
             <div class="card">
               <div class="faq-header card-header" id="headingFive" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseThree">
@@ -308,7 +309,23 @@
                 </div>
                 </div>
               </div>
-               
+              
+              </div>
+            <div class="card">
+              <div class="faq-header card-header" id="headingSix" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree">
+                <h5 class="mb-0">
+                  <p class="question">
+                   I’m one of “those people” who like to run multiple characters at once.  Do you have a limit on the number of characters you can have?
+                  </p>
+                </h5>
+              </div>
+              <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
+                <div class="card-body answer">
+                  There is no maximum number of characters you can create. The only negative to having multiple “alts” is that your split focus may slow down the individual advancement of each character (less play time per character).  Our advice?  If you haven’t ever played this type of way before, start with 1 or 2 and get used to the flow of things before making more.                </div>
+                </div>
+              </div>
+             </div>
+            
           </div>
         </div>
       </section>
