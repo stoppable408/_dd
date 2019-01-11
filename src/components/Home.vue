@@ -342,21 +342,7 @@
               </div>
              </div>
              
-           </div>
-            <div class="card">
-              <div class="faq-header card-header" id="headingEight" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseThree">
-                <h5 class="mb-0">
-                  <p class="question">
-                  Can I bring snacks to share?              
-                  </p>
-                </h5>
-              </div>
-              <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
-                <div class="card-body answer">
-                  YES PLEASE.  ALWAYS.  (Ask about allergies though just in case.)
-                </div>
-              </div>
-             </div>
+ 
             
           </div>
         </div>
