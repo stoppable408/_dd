@@ -278,19 +278,33 @@
               <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                 <div class="card-body answer">
                   Yes and no.  Your character design is all up to you.  You can choose male or female or neither, racial characteristics within the race you choose, any spells that may be relevant, any of the basic starting equipment, etc.  However, we do have some restrictions that are there to ensure our group maintains order, and also gives incentives and goals to keep players hooked.  First of all, we are keeping the options limited to the PHB at the onset of the campaign, and for each new player’s introduction (no matter how long the campaign has been running). Extended character options will be available as ‘unlocks’ through the play of the game. The details below note how you can access non-PHB options through the course of play.  When you join, you’ll be given a handbook-like document that will go further in detail about character creation.  Further, because of the nature of our group, we do not allow characters with Evil or Chaotic Neutral alignments, as these can be disruptive to the campaign.
-                </div>
+            </div>
              </div>
             <div class="card">
               <div class="faq-header card-header" id="headingFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
                 <h5 class="mb-0">
                   <p class="question">
-                    I’m new to this campaign!  Can I create any type of character I want?
+                    I’ve never played before.  Am I still able to join?
                   </p>
                 </h5>
               </div>
               <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                 <div class="card-body answer">
-                  Yes and no.  Your character design is all up to you.  You can choose male or female or neither, racial characteristics within the race you choose, any spells that may be relevant, any of the basic starting equipment, etc.  However, we do have some restrictions that are there to ensure our group maintains order, and also gives incentives and goals to keep players hooked.  First of all, we are keeping the options limited to the PHB at the onset of the campaign, and for each new player’s introduction (no matter how long the campaign has been running). Extended character options will be available as ‘unlocks’ through the play of the game. The details below note how you can access non-PHB options through the course of play.  When you join, you’ll be given a handbook-like document that will go further in detail about character creation.  Further, because of the nature of our group, we do not allow characters with Evil or Chaotic Neutral alignments, as these can be disruptive to the campaign.
+                  Yes and yes!  Please!  The way our campaign is structured makes it a good entry for new players.  Anyone who joins will first start off with a Session Zero, where they will learn the ins and outs of our campaign, get introduced to the regions, have our guidelines explained and be given the room to ask any questions and have experienced players and Dungeon Masters give advice and guidance at that session.  Further, our community of players are all willing to help out and answers questions and give guidance.
+                </div>
+                </div>
+          </div>
+            <div class="card">
+              <div class="faq-header card-header" id="headingFive" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseThree">
+                <h5 class="mb-0">
+                  <p class="question">
+                    How will I know when games are available?  What if nothing matches my schedule?
+                  </p>
+                </h5>
+              </div>
+              <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                <div class="card-body answer">
+                  Every new player will be added to the Detroit LFG google calendar, and will be added to the Discord channel.  Through these, every player will be able to see when upcoming missions are and if there are any open seats.  If there isn’t anything that matches your schedule, then just request your own!  All DMs have their availability posted on the calendar, and you are able to request to have a mission yourself!  As long as the specific DM you want is available, you’re all good!
                 </div>
                 </div>
               </div>
