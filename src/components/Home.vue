@@ -279,6 +279,7 @@
                 <div class="card-body answer">
                   Yes and no.  Your character design is all up to you.  You can choose male or female or neither, racial characteristics within the race you choose, any spells that may be relevant, any of the basic starting equipment, etc.  However, we do have some restrictions that are there to ensure our group maintains order, and also gives incentives and goals to keep players hooked.  First of all, we are keeping the options limited to the PHB at the onset of the campaign, and for each new player’s introduction (no matter how long the campaign has been running). Extended character options will be available as ‘unlocks’ through the play of the game. The details below note how you can access non-PHB options through the course of play.  When you join, you’ll be given a handbook-like document that will go further in detail about character creation.  Further, because of the nature of our group, we do not allow characters with Evil or Chaotic Neutral alignments, as these can be disruptive to the campaign.
                 </div>
+             </div>
             <div class="card">
               <div class="faq-header card-header" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                 <h5 class="mb-0">
@@ -290,6 +291,7 @@
               <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                 <div class="card-body answer">
                   Yes and no.  Your character design is all up to you.  You can choose male or female or neither, racial characteristics within the race you choose, any spells that may be relevant, any of the basic starting equipment, etc.  However, we do have some restrictions that are there to ensure our group maintains order, and also gives incentives and goals to keep players hooked.  First of all, we are keeping the options limited to the PHB at the onset of the campaign, and for each new player’s introduction (no matter how long the campaign has been running). Extended character options will be available as ‘unlocks’ through the play of the game. The details below note how you can access non-PHB options through the course of play.  When you join, you’ll be given a handbook-like document that will go further in detail about character creation.  Further, because of the nature of our group, we do not allow characters with Evil or Chaotic Neutral alignments, as these can be disruptive to the campaign.
+                </div>
                 </div>
               </div>
             </div>
