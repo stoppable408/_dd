@@ -376,7 +376,7 @@
           </div>
 
           <form action="https://submit-form.com/1e0630ef-0742-461f-bb95-21331b8abfa9" class="footer-form col-md">
-            <input type="hidden" name="_redirect" value="/thanks" />
+            <input type="hidden" name="_redirect" value="https://detroitlfg.com/thanks" />
             <input type="checkbox" name="_honeypot" style="display:none" tabindex="-1" autocomplete="off">
             <div class="form-group">
               <label for="name" class="form-label">Name</label>
