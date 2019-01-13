@@ -2,7 +2,7 @@
   <div class="thanks">
     <div class="container">
       <div class="logo">
-        <h1 class="text-center pt-5">Dungeons & Dragons</h1>
+        <h1 class="text-center pt-5">Detroit LFG</h1>
       </div>
       <div class="thanks-message text-center">
         <h1 class="title mb-4">Thank You!</h1>
