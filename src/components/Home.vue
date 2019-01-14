@@ -216,6 +216,9 @@
               <div class="carousel-item">
                 <img class="d-block w-100 gallery-img" src="../assets/DSC00081.jpg" alt="Third slide">
               </div>
+              <div class="carousel-item">
+                <img class="d-block w-100 gallery-img" src="../assets/Raid1.jpg" alt="Third slide">
+              </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
