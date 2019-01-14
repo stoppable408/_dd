@@ -211,7 +211,7 @@
                 <img class="d-block w-100 gallery-img" src="../assets/Doug and Steve.jpg" alt="Third slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block w-100 gallery-img" src="../assets/DSC00081.jpg" alt="Third slide">
+                <img class="d-block w-100 gallery-img" src="../assets/miniatures.jpg" alt="Third slide">
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
