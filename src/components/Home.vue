@@ -77,10 +77,10 @@
               <div class="shadow card col-lg master-card">
                 <div class="card-body">
                   <div class="master">
-                    <img src="../assets/profile-2.png" alt="" class="master-img">
+                    <img src="../assets/Beau Photo.jpg" alt="" class="master-img">
                     <div class="master-info">
-                      <h5 class="card-title">Arron Cambridge</h5>
-                      <h6 class="card-subtitle mb-2 text-muted">Region: Ann Arbor, MI</h6>
+                      <h5 class="card-title">Beau Woehrle</h5>
+                      <h6 class="card-subtitle mb-2 text-muted">Region: Far Reach</h6>
                     </div>
                   </div>
                   <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore quo officia delectus corrupti voluptatum quod.</p>
@@ -93,10 +93,10 @@
               <div class="shadow card col-lg master-card">
                 <div class="card-body">
                   <div class="master">
-                    <img src="../assets/profile-3.jpg" alt="" class="master-img">
+                    <img src="../assets/Adam L F.jpg" alt="" class="master-img">
                     <div class="master-info">
-                      <h5 class="card-title">Cameron Rivers</h5>
-                      <h6 class="card-subtitle mb-2 text-muted">Region: Grand Rapids, MI</h6>
+                      <h5 class="card-title">Adam Fuqua</h5>
+                      <h6 class="card-subtitle mb-2 text-muted">Region: Caldera</h6>
                     </div>
                   </div>
                   <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore quo officia delectus corrupti voluptatum quod.</p>
@@ -146,10 +146,10 @@
                 </div>
                 <div class="modal-body">
                   <div class="master">
-                    <img src="../assets/profile-2.png" alt="" class="master-img">
+                    <img src="../assets/Beau Photo.jpg" alt="" class="master-img">
                     <div class="master-info">
-                      <h5 class="card-title">Arron Cambridge</h5>
-                      <h6 class="card-subtitle mb-2 text-muted">Region: Ann Arbor, MI</h6>
+                      <h5 class="card-title">Beau Woehrle</h5>
+                      <h6 class="card-subtitle mb-2 text-muted">Region: Far Reach</h6>
                     </div>
                   </div>
                   <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore quo officia delectus corrupti voluptatum quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus error incidunt sunt ipsam porro, itaque necessitatibus repellat eum quis beatae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore nobis dolore officia repellat minus quam reiciendis blanditiis, vero beatae architecto?</p>
@@ -173,10 +173,10 @@
                 </div>
                 <div class="modal-body">
                   <div class="master">
-                    <img src="../assets/profile-3.jpg" alt="" class="master-img">
+                    <img src="../assets/Adam L F.jpg" alt="" class="master-img">
                     <div class="master-info">
-                      <h5 class="card-title">Cameron Rivers</h5>
-                      <h6 class="card-subtitle mb-2 text-muted">Region: Grand Rapids, MI</h6>
+                      <h5 class="card-title">Adam Fuqua</h5>
+                      <h6 class="card-subtitle mb-2 text-muted">Region: Caldera</h6>
                     </div>
                   </div>
                   <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore quo officia delectus corrupti voluptatum quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium consequuntur assumenda doloremque, at quas doloribus aut veritatis nulla ut illo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, quibusdam.</p>
