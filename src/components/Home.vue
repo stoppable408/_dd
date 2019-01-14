@@ -204,18 +204,6 @@
               <div class="carousel-item active">
                 <img class="d-block w-100 gallery-img" src="../assets/D&D1.jpg" alt="First slide">
               </div>
-              <div class="carousel-item">
-                <img class="d-block w-100 gallery-img" src="../assets/Doug and Steve.jpg" alt="Second slide">
-              </div>
-              <div class="carousel-item">
-                <img class="d-block w-100 gallery-img" src="../assets/DSC00020.JPG" alt="Third slide">
-              </div>
-              <div class="carousel-item">
-                <img class="d-block w-100 gallery-img" src="../assets/DSC00081.jpg" alt="Fourth slide">
-              </div>
-             <div class="carousel-item">
-                <img class="d-block w-100 gallery-img" src="../assets/One-shot.jpg" alt="Fifth slide">
-              </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
