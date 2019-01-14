@@ -202,25 +202,25 @@
           <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img class="d-block w-100 gallery-img" src="../assets/D&D 1.jpg" alt="First slide">
+                <img class="d-block w-100 gallery-img" src="../assets/D&D1.jpg" alt="First slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block w-100 gallery-img" src="../assets/D&D1.jpg" alt="Second slide">
+                <img class="d-block w-100 gallery-img" src="../assets/Doug and Steve.jpg" alt="Second slide">
               </div>
               <div class="carousel-item">
                 <img class="d-block w-100 gallery-img" src="../assets/D&D2.jpg" alt="Third slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block w-100 gallery-img" src="../assets/DSC00020.JPG alt="Fourth slide">
+                <img class="d-block w-100 gallery-img" src="../assets/DSC00020.JPG" alt="Fourth slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block w-100 gallery-img" src="../assets/DSC00081.jpg alt="Fifth slide">
+                <img class="d-block w-100 gallery-img" src="../assets/DSC00081.jpg" alt="Fifth slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block w-100 gallery-img" src="../assets/Doug and Steve.jpg alt="Sixth slide">
+                <img class="d-block w-100 gallery-img" src="../assets/Doug and Steve.jpg" alt="Sixth slide">
               </div>
              <div class="carousel-item">
-                <img class="d-block w-100 gallery-img" src="../assets/One-shot.jpg alt="Seventh slide">
+                <img class="d-block w-100 gallery-img" src="../assets/One-shot.jpg" alt="Seventh slide">
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
