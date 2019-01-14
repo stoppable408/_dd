@@ -83,7 +83,7 @@
                       <h6 class="card-subtitle mb-2 text-muted">Region: Far Reach</h6>
                     </div>
                   </div>
-                  <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore quo officia delectus corrupti voluptatum quod.</p>
+                  <p class="card-text">The land that is home to some of the most formidable creatures that most do not dare challenge. It is also home to...</p>
                   <div class="more text-center">
                     <button class="btn more-btn" data-toggle="modal" data-target="#modal-2">More</button>
                   </div>
