@@ -234,7 +234,7 @@
 
       <section class="join-us container">
         <div class="join-content">
-          <h2 class="join-text">Dont wait untill tomorrow</h2>
+          <h2 class="join-text">Dont wait until tomorrow</h2>
         </div>
 
       </section>
