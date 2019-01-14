@@ -380,10 +380,10 @@
             <h3 class="contact-title">Contact Us</h3>
             <p class="motto">Ready to start your journey?  Want more information?  Have any unanswered, lingering questions?  Want to compliment us on our attractive DMs and inflate their egos?  Fill out this contact form and we will get back to you within the week.</p>
             <div class="social">
-              <a href="#" class="social-item"><i class="fab fa-facebook"></i></a>
-              <a href="#" class="social-item"><i class="fab fa-twitter-square"></i></a>
-              <a href="#" class="social-item"><i class="fab fa-instagram"></i></a>
-              <a href="#" class="social-item"><i class="fas fa-envelope"></i></a>
+             <!-- <a href="#" class="social-item"><i class="fab fa-facebook"></i></a> -->
+              <!--   <a href="#" class="social-item"><i class="fab fa-twitter-square"></i></a> -->
+              <!--   <a href="#" class="social-item"><i class="fab fa-instagram"></i></a> -->
+               <!--  <a href="#" class="social-item"><i class="fas fa-envelope"></i></a> -->
             </div>
           </div>
 
