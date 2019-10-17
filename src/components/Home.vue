@@ -31,7 +31,7 @@
 
       <section class="header container">
         <h1 class="title">Detroit LFG</h1>
-        <h3 class="subtitle mt-5">A community dedicated to providing the adventurers of Southwest Michigan with all their Dungeons & Dragons needs!</h3>
+        <h3 class="subtitle mt-5">A community dedicated to providing the adventurers of Southeast Michigan with all their Dungeons & Dragons needs!</h3>
         <a href="#contact" class="btn action-btn mt-5">Get In Touch!</a>
       </section>
     </header>
